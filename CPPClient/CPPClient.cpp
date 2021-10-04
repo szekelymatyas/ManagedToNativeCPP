@@ -6,7 +6,7 @@
 #include "tchar.h"
 #include <atlbase.h>
 #include <atlsafe.h>
-#import "C:\Users\grant\Desktop\dev\gitProjects\CsharpInsideCpp2005\ManagedDLL\bin\Debug\ManagedDLL.tlb" raw_interfaces_only
+#import "E:\Workspace\ManagedToNativeCPP\ManagedDLL\bin\Debug\ManagedDLL.tlb" raw_interfaces_only
 
 
 // TO DO :

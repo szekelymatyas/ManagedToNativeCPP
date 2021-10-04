@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 14.00.50727.762 (4542d4b4).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.30.30528.0 (bc37805a).
 //
-// c:\users\grant\desktop\dev\gitprojects\csharpinsidecpp2005\cppclient\debug\manageddll.tlh
+// E:\Workspace\ManagedToNativeCPP\CPPClient\Debug\manageddll.tlh
 //
-// C++ source equivalent of Win32 type library C:\Users\grant\Desktop\dev\gitProjects\CsharpInsideCpp2005\ManagedDLL\bin\Debug\ManagedDLL.tlb
-// compiler-generated file created 04/23/16 at 04:11:01 - DO NOT EDIT!
+// C++ source equivalent of Win32 type library E:\Workspace\ManagedToNativeCPP\ManagedDLL\bin\Debug\ManagedDLL.tlb
+// compiler-generated file - DO NOT EDIT!
 
 #pragma once
 #pragma pack(push, 8)
