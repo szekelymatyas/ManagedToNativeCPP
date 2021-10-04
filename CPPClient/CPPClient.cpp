@@ -1,6 +1,5 @@
 // CPPClient.cpp: Defines the entry point for the console application.
 // C++ client that calls a managed DLL.
-
 //#include <iostream>
 #include "stdafx.h"
 #include "tchar.h"
