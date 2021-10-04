@@ -21,7 +21,8 @@ void print_2D_SAFEARRAY(LPSAFEARRAY, int, int);
 int _tmain(int argc, _TCHAR* argv[])
 {
     // Initialize COM.
-    HRESULT hr = CoInitialize(NULL);
+
+	HRESULT hr = CoInitialize(NULL);
 
 	// Create the interface pointer.
     ICalculatorPtr pICalc(__uuidof(ManagedClass));
