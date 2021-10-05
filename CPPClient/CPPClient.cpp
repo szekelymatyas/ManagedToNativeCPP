@@ -10,7 +10,6 @@
 
 // TO DO :
 // Try CComSafeArray in 2D 
- 
 using namespace ManagedDLL;
 
 static void print_1D_SAFEARRAY(SAFEARRAY*);
